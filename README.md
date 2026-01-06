@@ -14,5 +14,5 @@ This project is a Scrum-based group assignment that simulates the planning and e
 | 00/00        | Denisi Sambila      | Developer 1     |
 | 00/00        | Graciana Tarimo     | Developer 2     |
 | 31786/T.2023 | Ester Msabila       | Developer 3     |
-| 00/00        | Nathan Mbilinyi     | Developer 4     |
+| 31310/T.2023 | Nathan Mbilinyi     | Developer 4     |
 
