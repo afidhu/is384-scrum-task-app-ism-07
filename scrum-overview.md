@@ -36,6 +36,16 @@ The team presents completed work and collects feedback from stakeholders.
 The team reflects on the sprint and identifies improvements for the next sprint.
 
 ---
+## Nathan Mbilinyi
 
+## 3. Scrum Artifacts
 
+### Product Backlog
+A prioritized list of all features and requirements for the task management app.
+
+### Sprint Backlog
+A subset of product backlog items selected for the current sprint.
+
+### Increment
+The completed and potentially shippable features produced during the sprint
 
