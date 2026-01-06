@@ -7,7 +7,7 @@ This project is a Scrum-based group assignment that simulates the planning and e
 ## Group Members and Roles
 - Afidhu Nurudini – Product Owner
 - Yusuph Yohana – Scrum Master
-- Denisi Denis – Developer 1
+- Denisi Sambila – Developer 1
 - Graciana Tarimo – Developer 2
 - Ester Msabila – Developer 3
 - Nathan Mbilinyi – Developer 4
