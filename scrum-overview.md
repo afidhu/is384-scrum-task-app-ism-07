@@ -11,11 +11,11 @@ Yusuph Yusuph
 Ensures Scrum practices are followed and facilitates Scrum events.
 
 ### Developers
-- John Peter
-- Grace Moses
-- Kelvin James
-- Fatma Hassan
-- Brian Lucas  
+- denisi sambila
+- nathan mbilinyi
+- afidhu nurudini
+- yusuph yusuph
+- graciana tarimo 
 
 Responsible for planning, building, and reviewing the product increment.
 
