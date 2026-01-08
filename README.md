@@ -1,4 +1,4 @@
-# Cloud-Based Task Management App (Scrum Simulation)
+# Cloud-Based Task Management App 
 
 
 ## Project Description
