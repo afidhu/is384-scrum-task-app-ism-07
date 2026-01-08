@@ -12,7 +12,7 @@ This project is a Scrum-based group assignment that simulates the planning and e
 | 30772/T.2023 | Afidhu Nurudini     | Product Owner   |
 | 31137/T.2023 | Yusuph Yohana       | Scrum Master    |
 | 30689/T.2023 | Denisi Sambila      | Developer 1     |
-| 00/00        | Graciana Tarimo     | Developer 2     |
+| 30565/T.2023 | Graciana Tarimo     | Developer 2     |
 | 31786/T.2023 | Ester Msabila       | Developer 3     |
 | 31310/T.2023 | Nathan Mbilinyi     | Developer 4     |
 
