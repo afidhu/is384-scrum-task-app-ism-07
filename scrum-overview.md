@@ -17,7 +17,7 @@ Ensures Scrum practices are followed and facilitates Scrum events.
 - yusuph yusuph
 - graciana tarimo 
 
-Responsible for planning, building, and reviewing the product increment.COMMENTED BY ME
+Responsible for planning, building, and reviewing the product increment. by me
 
 ---
 
