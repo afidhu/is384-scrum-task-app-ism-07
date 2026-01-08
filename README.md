@@ -10,7 +10,7 @@ This project is a Scrum-based group assignment that simulates the planning and e
 | Student Reg. | Student Name        | Role            |
 |--------------|---------------------|-----------------|
 | 30772/T.2023 | Afidhu Nurudini     | Product Owner   |
-| 00/00        | Yusuph Yohana       | Scrum Master    |
+| 31137/T.2023    | Yusuph Yohana       | Scrum Master    |
 | 00/00        | Denisi Sambila      | Developer 1     |
 | 00/00        | Graciana Tarimo     | Developer 2     |
 | 31786/T.2023 | Ester Msabila       | Developer 3     |
