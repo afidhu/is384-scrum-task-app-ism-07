@@ -16,3 +16,5 @@ This project is a Scrum-based group assignment that simulates the planning and e
 | 31786/T.2023 | Ester Msabila       | Developer 3     |
 | 31310/T.2023 | Nathan Mbilinyi     | Developer 4     |
 
+
+notes link  => https://drive.google.com/drive/folders/15aEiIHS29E45yPcCVBsBgW4XM3-PmpiL?usp=drive_link
