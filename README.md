@@ -18,3 +18,5 @@ This project is a Scrum-based group assignment that simulates the planning and e
 
 
 notes link  => https://drive.google.com/drive/folders/15aEiIHS29E45yPcCVBsBgW4XM3-PmpiL?usp=drive_link
+
+now development activities has pause after 2wk later will be resumed 
